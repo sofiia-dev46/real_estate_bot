@@ -1,0 +1,45 @@
+# Файли байт-коду Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Локальні середовища Python (virtualenv)
+venv/
+.env
+.venv
+env/
+ENV/
+
+# Бібліотеки
+*.egg-info/
+.eggs/
+dist/
+build/
+wheels/
+
+# Лог-файли
+*.log
+
+# Конфігураційні файли IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Тестові файли та покриття коду
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+
+# Інші зайві файли
+*.sqlite3
+*.db
+*.env
