@@ -1,0 +1,2 @@
+class RealEstateSample:
+    name: str
