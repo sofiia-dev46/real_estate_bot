@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from real_estate_sample import RealEstateSample
+from guardian_sample import RealEstateSample
 
 
 class TestRealEstateSample(TestCase):
