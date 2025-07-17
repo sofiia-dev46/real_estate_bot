@@ -1,2 +1,2 @@
-class RealEstateSample:
+class GuardianSample:
     name: str

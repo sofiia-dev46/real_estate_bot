@@ -1,8 +1,8 @@
 from unittest import TestCase
 
-from guardian_sample import RealEstateSample
+from guardian_sample import GuardianSample
 
 
-class TestRealEstateSample(TestCase):
-    def test_real_estate_sample(self):
-        assert RealEstateSample()
+class TestGuardianSample(TestCase):
+    def test_guardian_sample(self):
+        assert GuardianSample()
